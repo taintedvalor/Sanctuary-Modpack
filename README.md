@@ -14,7 +14,7 @@ The Sanctuary Mod Pack is designed to enhance your Minecraft experience by addin
 
 ## Installation:
 1. Ensure you have Minecraft version 1.20.1 installed.
-2. Download the Sanctuary Mod Pack files from [join my discord!]([https://drive.google.com/uc?id=1ZB_pE80UMPng1hU4V_OKOKwPN8oQkbGE)]).
+2. Download the Sanctuary Mod Pack files from [join my discord!](https://drive.google.com/uc?id=1ZB_pE80UMPng1hU4V_OKOKwPN8oQkbGE).
 3. Install the Forge mod loader for Minecraft 1.20.1 (if not already installed).
 4. Drag and drop the downloaded mod pack files into the Minecraft "mods" folder.
 5. Launch Minecraft using the Forge profile to enjoy the Sanctuary Mod Pack!
