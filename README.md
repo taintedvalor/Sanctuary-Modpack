@@ -284,7 +284,7 @@ Sure, here are the mods listed alphabetically:
 - YSNS-Fabric_Quilt-MC1.20-1.0.4.jar
 - Zoomify-2.10.0.jar
 
-- Total number of mods: 205
+- Total number of mods: 246
   - ...
 </details>
 
