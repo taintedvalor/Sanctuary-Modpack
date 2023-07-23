@@ -12,7 +12,7 @@ Welcome to the Sanctuary Mod Pack for Minecraft version 1.20.1! This mod pack is
 <details>
   <summary>Mod List:</summary>
   
-Sure, here are the mods listed alphabetically:
+mods listed alphabetically:
 
 - ad_astra-fabric-1.20.1-1.15.2.jar
 - ae2wtlib-15.0.1-beta.jar
