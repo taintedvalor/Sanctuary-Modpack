@@ -288,7 +288,7 @@ mods listed alphabetically:
   - ...
 </details>
 
-- [Mods Download](https://drive.google.com/uc?id=1c9BtP8mTeOjj3WjWiJIszqBMMqjjK2mO)
+[Mods Download](https://drive.google.com/uc?id=1c9BtP8mTeOjj3WjWiJIszqBMMqjjK2mO)
 
 <details>
   <summary>Known Issues:</summary>
