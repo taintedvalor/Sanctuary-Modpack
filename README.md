@@ -288,7 +288,7 @@ mods listed alphabetically:
   - ...
 </details>
 
-[Mods Download](https://drive.google.com/uc?id=1c9BtP8mTeOjj3WjWiJIszqBMMqjjK2mO)
+[Mods Download](https://drive.google.com/uc?id=1gD0jFGCz-jlORYBykFen-W8q_JTCz_1Q)
 
 <details>
   <summary>Known Issues:</summary>
@@ -301,7 +301,7 @@ mods listed alphabetically:
 ## Installation using ATLauncher:
 ATLauncher is the recommended launcher for the Sanctuary Mod Pack, and you can easily import the modpack using the following steps:
 
-1. Download the Sanctuary Mod Pack files from [here](https://drive.google.com/uc?id=1ZB_pE80UMPng1hU4V_OKOKwPN8oQkbGE).
+1. Download the Sanctuary Mod Pack files from [here](https://drive.google.com/uc?id=11iL0qyOGq48Bg4DvjE8z7jJgZJnkF4sQ).
 2. Open ATLauncher on your computer.
 3. Navigate to the "Instances" tab.
 4. In the top-left corner, click on "Import Instance."
