@@ -37,9 +37,9 @@ Find solutions to known issues or report new problems you encounter on the serve
 
 The Alpha Sanctuary Mod Pack has been meticulously developed by Valor to offer an immersive and enjoyable Minecraft experience. While there are multiple methods to set up the mod pack, we highly recommend the following steps for a seamless experience:
 
-1. **Download ATLauncher**: Begin by downloading ATLauncher from their official website (link to the ATLauncher website).
+1. **Download ATLauncher**: Begin by downloading ATLauncher from their official [website](https://atlauncher.com).
 
-2. **Download the Mod Pack**: After installing ATLauncher, obtain the Alpha Sanctuary mod pack from our Google Drive (link to Google Drive mod pack).
+2. **Download the Mod Pack**: After installing ATLauncher, obtain the Alpha Sanctuary mod pack from our Google Drive [Download](https://drive.google.com/file/d/10ZYBfPFkxQMtwjWuW3uP6Y0eCVCV2yr_/view).
 
 3. **Import Mod Pack**: Launch ATLauncher and navigate to the "Instances" tab. In the upper left corner, click on "Import" and then "Browse" to select the downloaded mod pack file. Follow the on-screen instructions to complete the import.
 
